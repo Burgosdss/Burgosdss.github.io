@@ -1,4 +1,4 @@
-# The Strain Libray
+# The Strain Library
 
 A web app for gathering and displaying Strain data!; Maybe Selling in the future.
 
@@ -27,7 +27,7 @@ A web app for gathering and displaying Strain data!; Maybe Selling in the future
 - jQuery
 
 # Getting Started
-[Click here]() to open app in browser
+[Click here](https://burgosdss.github.io/) to open app in browser
 
 # Future Enhancements
 1. A Search feature to allow for users to search an specific strain. 
