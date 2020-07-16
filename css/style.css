@@ -6,8 +6,29 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;  
 }
 main {
     flex-grow: 1;
+}
+.brand-logo {
+    margin-left: 5px;
+    font-family: 'Ranchers', cursive;
+}
+h4{
+text-align: center;
+color: white;
+background-color: #e57373;
+font-family: 'Ranchers', cursive;
+}
+footer{
+height: 60px;
+}
+#menu {
+    bottom: 45px;
+    right: 24px;
+    position: fixed;  
+}
+.tap-button {
+    background-color: white;
 }

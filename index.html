@@ -3,6 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css2?family=Ranchers&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   
     <!-- Compiled and minified CSS -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -29,8 +34,10 @@
     </nav>
       <main class="container">
           <section class="container">
+            <h4>Strain Samples</h4>
+            <button class='tap-button'>Disclaimer</button>  
             <ul class="collection with-header">
-                <li class="collection-header"><h4>Here are the Strain</h4></li>
+                <!-- <li class="collection-header"></li> -->
                 
                 <!-- <li class="collection-item"><div>OgKush<span  class="secondary-content">Detail</div></li>
                 <li class="collection-item"><div>OgKush<span  class="secondary-content">Detail</div></li>
@@ -52,7 +59,18 @@
         <div class="modal-footer">
             <a href="#!" class="modal-close waves-effect waves-green btn-flat">Close</a>
         </div>
-    </div>
-      <footer class="page-footer green darken-1"></footer>  
+      </div>
+    <footer id="foot" class="page-footer green darken-1"> 
+              
+        <!-- Element Showed -->
+        <a id="menu" class="waves-effect green darken-1 btn btn-floating" >
+            <i class="material-icons">menu</i>
+        </a>
+        <!-- Tap Target Structure -->
+        <div class="tap-target" data-target="menu">
+        <div class="tap-target-content">
+        <h5>Disclaimer & Fair Use Statement</h5>
+        <p>If you wish to use any copyrighted material from this site for purposes of your own that go beyond ‘fair use’, you must obtain expressed permission from the copyright owner.</p>
+</footer>
 </body>
 </html>
