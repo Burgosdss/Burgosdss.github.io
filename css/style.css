@@ -12,8 +12,7 @@ main {
     flex-grow: 1;
 }
 .brand-logo {
-    margin-left: 5px;
-    font-family: 'Ranchers', cursive;
+    font-family: 'Ranchers', cursive; 
 }
 h4{
 text-align: center;
