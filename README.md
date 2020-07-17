@@ -27,11 +27,11 @@ A web app for gathering and displaying Strain data!; Maybe Selling in the future
 - jQuery
 
 # Getting Started
-[Click here](https://burgosdss.github.io/) to open app in browser
+[Click here](https://burgosdss.github.io/) to open app in browser.
 
 # Future Enhancements
 1. A Search feature to allow for users to search an specific strain. 
-2. Showing more detail for each Strain
+2. Showing more detail for each Strain.
 3. Larger sprite images and enhanced styling for each strain and effecs. 
 4. Make a shopping option a become a dealer ? just kidding. 
 

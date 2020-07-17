@@ -1,6 +1,6 @@
 $(function(){   
  
-    const baseURL = `https:strainapi.evanbusse.com/${config.STRAIN_API_KEY}/strains/search/all`
+    const baseURL = `https://project1-629.herokuapp.com/diego`
     const $modal = $('.modal');
     const $name = $('#name');
     const $race = $('#race');
